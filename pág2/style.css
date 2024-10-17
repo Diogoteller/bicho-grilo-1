@@ -36,8 +36,15 @@ a {
 @media screen and (max-width:500px) {
     .link-pág2 {
         width: 100vw;
+        height: 40px;
     }
     a {
         text-decoration: none;
+    }
+    .logo-whatsapp {
+        height: 55px;
+    }
+    .link-pág2 {
+        font-size: 25px;
     }
 }
