@@ -35,7 +35,7 @@ section {
 }
 
 footer {
-    background-color: rgb(214, 167, 111);
+    background-color: rgb(175, 169, 161);
     height: 200px;
     display: flex;
     justify-content: center;
@@ -96,17 +96,5 @@ img {
     }
     .container {
         gap: 5px;
-    }
-    header {
-        height: 100px;
-    }
-    .imagem-header {
-        height: 100px;
-    }
-    footer {
-        height: 100px;
-    }
-    .imagem-footer {
-        height: 100px;
-    }
+  
 }
