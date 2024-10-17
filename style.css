@@ -65,13 +65,13 @@ img {
 
 @media screen and (max-width:643px) {
     img {
-        height: 200px;
+        height: 250px;
     }
 }
 
 @media screen and (max-width:500px) {
     img {
-        height: 180px;
+        height: 210px;
     }
     .container {
         gap: 3px;
@@ -92,7 +92,7 @@ img {
 
 @media screen and (max-width:379px) {
     img {
-        height: 170px;
+        height: 200px;
     }
     .container {
         gap: 5px;
@@ -111,25 +111,22 @@ img {
     }
 }
 
-@media screen and (max-width: 303px) {
+@media screen and (max-width: 367px) {
     img {
-        height: 160px;
+        height: 190px;
     }
     .container {
         gap: 5px; 
     }
-    header {
-        height: 120px;
-        background-color: aliceblue;
-    }
-    .imagem-header {
-        height: 120px;
-    }
-    footer {
-        height: 120px;
-    }
-    .imagem-footer {
-        height: 120px;
-    }
+   
+}
 
+@media screen and (max-width: 350px) {
+    img {
+        height: 170px;
+    }
+    .container {
+        gap: 5px; 
+    }
+   
 }
