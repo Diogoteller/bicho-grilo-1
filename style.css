@@ -92,21 +92,21 @@ img {
 
 @media screen and (max-width: 303px) {
     img {
-        height: 140px;
+        height: 200px;
     }
     .container {
         gap: 5px;
     }
     header {
-        height: 80px;
+        height: 100px;
     }
     .imagem-header {
-        height: 80px;
+        height: 100px;
     }
     footer {
-        height: 80px;
+        height: 100px;
     }
     .imagem-footer {
-        height: 80px;
+        height: 100px;
     }
 }
