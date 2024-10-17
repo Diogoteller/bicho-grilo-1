@@ -131,13 +131,6 @@ a {
     .container {
         gap: 5px;
     }
-    a {
-        font-size: 17px;
-    }
-    .logo-whatsapp {
-        height: 37px;
-        margin-top:-8px ;
-    }
   
 }
 
@@ -148,13 +141,7 @@ a {
     .container {
         gap: 5px; 
     }
-    a {
-        font-size: 17px;
-    }
-    .logo-whatsapp {
-        height: 37px;
-        margin-top:-8px ;
-    }
+ 
    
 }
 
@@ -165,12 +152,6 @@ a {
     .container {
         gap: 5px; 
     }
-    a {
-        font-size: 17px;
-    }
-    .logo-whatsapp {
-        height: 37px;
-        margin-top:-8px ;
-    }
+  
    
 }
