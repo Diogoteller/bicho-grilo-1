@@ -8,9 +8,7 @@ header {
     background-color: rgb(228, 202, 166);
     height: 200px;
     display: flex;
-    justify-content: center;
-    
-    
+    justify-content: center;      
 }
 
 .container {
@@ -21,10 +19,7 @@ header {
     justify-content: space-evenly;
     align-items: center;
     flex-flow: row wrap;
-    padding: 20px;
-    
-   
-    
+    padding: 20px;       
 }
 
 section {
@@ -35,7 +30,7 @@ section {
 }
 
 footer {
-    background-color: rgb(214, 167, 111);
+    background-color: rgb(228, 202, 166);
     height: 200px;
     display: flex;
     justify-content: center;
@@ -56,8 +51,7 @@ img {
 
 .imagem-footer {
     height: 200px;
-    padding-top: 10px;
-    
+    padding-top: 10px;   
 }
 
 a {
@@ -78,9 +72,7 @@ a {
     justify-content:center;
     padding-top: 5px;
     margin-top: 5px;
-    margin-bottom: 5px;
-    
-    
+    margin-bottom: 5px;  
  }
 
 @media screen and (max-width: 753px) {
@@ -121,8 +113,9 @@ a {
     }
     .logo-whatsapp {
         height: 37px;
-        margin-top:-8px ;
+        margin-top:-8px;
     }
+    
 }
 
 @media screen and (max-width:379px) {
@@ -152,7 +145,5 @@ a {
     }
     .container {
         gap: 5px; 
-    }
-  
-   
+    } 
 }
