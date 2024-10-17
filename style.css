@@ -111,7 +111,7 @@ img {
     }
 }
 
-@media screen and (max-width: 337px) {
+@media screen and (max-width: 303px) {
     img {
         height: 160px;
     }
