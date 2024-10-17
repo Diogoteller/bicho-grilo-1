@@ -77,16 +77,16 @@ img {
         gap: 5px;
     }
     header {
-        height: 100px;
+        height: 50px;
     }
     .imagem-header {
-        height: 100px;
+        height: 50px;
     }
     footer {
-        height:100px;
+        height: 50px;
     }
     .imagem-footer {
-        height: 100px;
+        height: 50px;
     }
 }
 
