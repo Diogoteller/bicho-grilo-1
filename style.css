@@ -5,7 +5,7 @@
 }
 
 header {
-    background-color: rgb(214, 167, 111);
+    background-color: rgb(228, 202, 166);
     height: 200px;
     display: flex;
     justify-content: center;
@@ -14,7 +14,7 @@ header {
 }
 
 .container {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(248, 246, 242);
     width: 900px;
     height: 100vh;
     display: flex;
@@ -31,7 +31,7 @@ section {
     display: flex;
     justify-content: center;
     height: 100vh;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(248, 246, 242);
 }
 
 footer {
@@ -45,6 +45,10 @@ img {
     height: 300px;
 }
 
+.logo-whatsapp {
+    height: 50px;
+    margin-top: -12px;
+}
 .imagem-header {
     height: 200px;
     padding-top: 7px;
@@ -62,9 +66,7 @@ a {
     font-size: 20px;
 }
 
-.comprar {
-    
-    
+.comprar {   
     color: green;
 }
 
@@ -76,6 +78,7 @@ a {
     padding-top: 5px;
     margin-top: 5px;
     margin-bottom: 5px;
+    
     
  }
 
@@ -111,6 +114,14 @@ a {
     .imagem-footer {
         height: 125px;
     }
+
+    a {
+        font-size: 17px;
+    }
+    .logo-whatsapp {
+        height: 37px;
+        margin-top:-8px ;
+    }
 }
 
 @media screen and (max-width:379px) {
@@ -119,6 +130,13 @@ a {
     }
     .container {
         gap: 5px;
+    }
+    a {
+        font-size: 17px;
+    }
+    .logo-whatsapp {
+        height: 37px;
+        margin-top:-8px ;
     }
   
 }
@@ -130,6 +148,13 @@ a {
     .container {
         gap: 5px; 
     }
+    a {
+        font-size: 17px;
+    }
+    .logo-whatsapp {
+        height: 37px;
+        margin-top:-8px ;
+    }
    
 }
 
@@ -139,6 +164,13 @@ a {
     }
     .container {
         gap: 5px; 
+    }
+    a {
+        font-size: 17px;
+    }
+    .logo-whatsapp {
+        height: 37px;
+        margin-top:-8px ;
     }
    
 }
