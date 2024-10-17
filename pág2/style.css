@@ -18,7 +18,7 @@
     margin-top: 5px;
     margin-bottom: 5px;  
     font-size: 20px;
-    width: 791px;
+    width: 806px;
  }
 
  .logo-whatsapp {
@@ -35,7 +35,7 @@ a {
 }
 @media screen and (max-width:500px) {
     .link-pág2 {
-        width: 381px;
+        width: 395px;
     }
     a {
         text-decoration: none;
