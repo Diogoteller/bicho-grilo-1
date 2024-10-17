@@ -35,7 +35,7 @@ section {
 }
 
 footer {
-    background-color: rgb(175, 169, 161);
+    background-color: rgb(214, 167, 111);
     height: 200px;
     display: flex;
     justify-content: center;
@@ -69,32 +69,45 @@ img {
     }
 }
 
-@media screen and (max-width:379px) {
+@media screen and (max-width:400px) {
     img {
-        height: 200px;
+        height: 170px;
     }
     .container {
         gap: 5px;
     }
     header {
-        height: 100px;
+        height: 120px;
     }
     .imagem-header {
-        height: 100px;
+        height: 120px;
     }
     footer {
-        height: 100px;
+        height: 120px;
     }
     .imagem-footer {
-        height: 100px;
+        height: 120px;
     }
 }
 
-@media screen and (max-width: 303px) {
+@media screen and (max-width: 337px) {
     img {
-        height: 200px;
+        height: 160px;
     }
     .container {
         gap: 5px; 
     }
+    header {
+        height: 120px;
     }
+    .imagem-header {
+        height: 120px;
+    }
+    footer {
+        height: 120px;
+    }
+    .imagem-footer {
+        height: 120px;
+    }
+
+}
