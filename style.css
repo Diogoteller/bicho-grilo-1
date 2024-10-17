@@ -58,23 +58,10 @@ a {
     text-decoration: none;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
+    color: black;
 }
 
-.comprar {   
-    color: green;
-    margin-top: 1px;
-}
-
- .link {
-    background-color:rgb(176, 223, 176);
-    height: 35px;
-    display: flex;
-    justify-content:center;
-    padding-top: 5px;
-    margin-top: 5px;
-    margin-bottom: 5px;  
- }
-.link2 {
+.link {
     background-color: rgb(206, 119, 78);
     height: 35px;
     display: flex;
@@ -83,7 +70,7 @@ a {
     margin-top: 5px;
     margin-bottom: 5px;  
 }
-.comprar2 {
+.visualizar {
     color: rgb(0, 0, 0);
     margin-top: 1px;
     font-size: 18px;

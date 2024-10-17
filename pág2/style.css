@@ -30,9 +30,6 @@ a {
     text-decoration: none;
 }
 
-.bloco-1-pág2 {
-   margin: auto;
-}
 @media screen and (max-width:500px) {
     .link-pág2 {
         width: 100vw;
