@@ -47,12 +47,12 @@ img {
 
 .imagem-header {
     height: 200px;
-    padding-top: 10px;
+    padding-top: 7px;
 }
 
 .imagem-footer {
     height: 200px;
-    padding-top: 20px;
+    padding-top: 10px;
     
 }
 
@@ -80,13 +80,13 @@ img {
         height: 120px;
     }
     .imagem-header {
-        height: 120px;
+        height: 125px;
     }
     footer {
         height: 120px;
     }
     .imagem-footer {
-        height: 120px;
+        height: 125px;
     }
 }
 
@@ -97,18 +97,7 @@ img {
     .container {
         gap: 5px;
     }
-    header {
-        height: 120px;
-    }
-    .imagem-header {
-        height: 120px;
-    }
-    footer {
-        height: 120px;
-    }
-    .imagem-footer {
-        height: 120px;
-    }
+  
 }
 
 @media screen and (max-width: 367px) {
@@ -123,7 +112,7 @@ img {
 
 @media screen and (max-width: 350px) {
     img {
-        height: 170px;
+        height: 180px;
     }
     .container {
         gap: 5px; 
