@@ -26,6 +26,10 @@
     margin-top: -12px;
 }
 
+a {
+    text-decoration: none;
+}
+
 @media screen and (max-width:500px) {
     .link-pág2 {
         width: 381px;
