@@ -66,7 +66,7 @@ a {
 }
 
  .link {
-    background-color: rgb(195, 228, 195);
+    background-color:rgb(176, 223, 176);
     height: 35px;
     display: flex;
     justify-content:center;
@@ -74,7 +74,20 @@ a {
     margin-top: 5px;
     margin-bottom: 5px;  
  }
-
+.link2 {
+    background-color: rgb(206, 119, 78);
+    height: 35px;
+    display: flex;
+    justify-content:center;
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;  
+}
+.comprar2 {
+    color: rgb(0, 0, 0);
+    margin-top: 1px;
+    font-size: 18px;
+}
 @media screen and (max-width: 753px) {
     img {
         height: 250px;

@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.comprar {   
+    color: green;
+    margin-top: 1px;
+}
+
+ .link-pág2{
+    background-color: rgb(195, 228, 195);
+    height: 35px;
+    display: flex;
+    justify-content:center;
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;  
+    font-size: 20px;
+    width: 770px;
+ }
+
+ .logo-whatsapp {
+    height: 50px;
+    margin-top: -12px;
+}
+
+@media screen and (max-width:500px) {
+    .link-pág2 {
+        width: 381px;
+    }
+}
