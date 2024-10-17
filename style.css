@@ -120,6 +120,7 @@ img {
     }
     header {
         height: 120px;
+        background-color: aliceblue;
     }
     .imagem-header {
         height: 120px;
