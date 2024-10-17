@@ -56,6 +56,28 @@ img {
     
 }
 
+a {
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.comprar {
+    
+    
+    color: green;
+}
+
+ .link {
+    background-color: rgb(195, 228, 195);
+    height: 35px;
+    display: flex;
+    justify-content:center;
+    padding-top: 5px;
+    margin-top: 5px;
+    
+ }
+
 @media screen and (max-width: 753px) {
     img {
         height: 250px;
