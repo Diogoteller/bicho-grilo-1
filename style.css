@@ -71,22 +71,22 @@ img {
 
 @media screen and (max-width:379px) {
     img {
-        height: 150px;
+        height: 200px;
     }
     .container {
         gap: 5px;
     }
     header {
-        height: 50px;
+        height: 100px;
     }
     .imagem-header {
-        height: 50px;
+        height: 100px;
     }
     footer {
-        height: 50px;
+        height: 100px;
     }
     .imagem-footer {
-        height: 50px;
+        height: 100px;
     }
 }
 
@@ -96,5 +96,17 @@ img {
     }
     .container {
         gap: 5px;
+    }
+    header {
+        height: 80px;
+    }
+    .imagem-header {
+        height: 80px;
+    }
+    footer {
+        height: 80px;
+    }
+    .imagem-footer {
+        height: 80px;
     }
 }
