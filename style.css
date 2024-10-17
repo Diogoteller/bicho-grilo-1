@@ -69,6 +69,27 @@ img {
     }
 }
 
+@media screen and (max-width:500px) {
+    img {
+        height: 180px;
+    }
+    .container {
+        gap: 3px;
+    }
+    header {
+        height: 120px;
+    }
+    .imagem-header {
+        height: 120px;
+    }
+    footer {
+        height: 120px;
+    }
+    .imagem-footer {
+        height: 120px;
+    }
+}
+
 @media screen and (max-width:379px) {
     img {
         height: 170px;
