@@ -5,7 +5,7 @@
 }
 
 header {
-    background-color: rgb(228, 202, 166);
+    background-image: linear-gradient(to right, #826449d0, #e4caa7, #826449d0);
     height: 200px;
     display: flex;
     justify-content: center;      
@@ -30,7 +30,7 @@ section {
 }
 
 footer {
-    background-color: rgb(228, 202, 166);
+    background-image: linear-gradient(to right, #826449d0, #e4caa7, #826449d0);
     height: 200px;
     display: flex;
     justify-content: center;
@@ -38,6 +38,7 @@ footer {
 
 img {
     height: 300px;
+    border-radius: 4px;
 }
 
 .logo-whatsapp {
@@ -61,15 +62,17 @@ a {
     color: black;
 }
 
-.link {
-    background-color: rgb(206, 119, 78);
+.link{
+    background-image: linear-gradient(to right, #603f1e80, #b35d2377);
     height: 35px;
     display: flex;
     justify-content:center;
     padding-top: 5px;
     margin-top: 5px;
     margin-bottom: 5px;  
+    border-radius: 4px;
 }
+
 .visualizar {
     color: rgb(0, 0, 0);
     margin-top: 1px;

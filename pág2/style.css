@@ -5,12 +5,12 @@
 }
 
 .comprar {   
-    color: green;
+    color: rgb(0, 0, 0);
     margin-top: 1px;
 }
 
  .link-pág2{
-    background-color: rgb(195, 228, 195);
+    background-image: linear-gradient(to right, #603f1e80, #b35d2377);
     height: 35px;
     display: flex;
     justify-content:center;
