@@ -5,7 +5,8 @@
 }
 
 header {
-    background-image: linear-gradient(to right, #826449d0, #e4caa7, #826449d0);
+    background-image: linear-gradient(to right, #826449cb, #e4caa7, #826449cb);
+    height: 200px;
     height: 200px;
     display: flex;
     justify-content: center;      
@@ -30,7 +31,7 @@ section {
 }
 
 footer {
-    background-image: linear-gradient(to right, #826449d0, #e4caa7, #826449d0);
+    background-image: linear-gradient(to right, #826449cb, #e4caa7, #826449cb);
     height: 200px;
     display: flex;
     justify-content: center;
